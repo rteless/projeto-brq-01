@@ -1,0 +1,81 @@
+body {
+    font-family: Tahoma;
+    background-color: #1b1b1b;
+    color: #df6219;
+    font-size: 16px;
+}
+
+.form {
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+    font-size: 16px;
+
+
+}
+
+.card {
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: #000000;
+    padding: 30px;
+    border-radius: 5px;
+
+}
+
+.card-top {
+   
+
+    color: #fc4a04;
+    margin-bottom: 10px;
+
+}
+
+
+.card-group>label {
+    width: 100%;
+    color: #fcf6f6;
+    display: block;
+    padding-top: 5px;
+}
+
+.card-sexo {
+    width: 100%;
+    color: #fcf6f6;
+    display: block;
+    padding-top: 15px;
+    padding: 5px;
+    padding-top: 15px;
+    padding-inline-start: 15px;
+
+
+}
+
+.card-group>button {
+    background-color: #df6219;
+    width: 100%;
+    border-radius: 30px;
+    padding: 5px;
+    color: rgb(236, 234, 232);
+    border: 0px;
+
+}
+
+
+.card-estado>select,
+h2 {
+    width: 100%;
+    color: #575353;
+    display: block;
+    
+
+
+
+
+}
+
+.imglogin {
+    border: 50px;
+    width: 100px;
+    box-shadow: 1px 1px 5px rgb(233, 229, 227);
+
+}
